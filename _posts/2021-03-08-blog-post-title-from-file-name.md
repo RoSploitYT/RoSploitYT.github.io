@@ -1,3 +1,3 @@
 ## Roblox List Script
 
-<b3>test</b3>
+<script>alert(1)</script>
